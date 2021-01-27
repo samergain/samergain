@@ -9,7 +9,7 @@ Certificate of Full Stack Web Development - University of Minnesota
 ### Contact:  
 ### eMail: samersadon@gmail.com
 
-### [Portfolio](https://samergain.github.io/samer-saadoun)  
+### Portfolio: https://samergain.github.io/samer-saadoun  
 
 - 🌱 I’m currently improving my skills in HTML/CSS/Javascript
 - Next step is to focus on React
