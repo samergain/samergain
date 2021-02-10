@@ -11,8 +11,3 @@ Certificate of Full Stack Web Development - University of Minnesota
 
 #### Portfolio: https://samergain.github.io/samer-saadoun  
 #### LinkedIn: https://www.linkedin.com/in/ssamer
-
-- 🌱 I’m currently improving my skills in HTML/CSS/Javascript
-- Next step is to focus on React
-
-
