@@ -2,7 +2,7 @@
 
 
 My name is Samer (Pronounces name SA-mer) I'm a full-stack web developer.  
-Main technical skills are HTML, CSS, Bootstrap, Javascript, Nodejs, MongoDB, and Mysql.  
+Main technical skills are React | JavaScript | HTML/CSS | jQuery | APIs | Node.js | SQL/NoSql | MongoDB | MERN  
 
 ### Education:    
 - Certificate of Full Stack Web Development - University of Minnesota  
@@ -12,3 +12,4 @@ Main technical skills are HTML, CSS, Bootstrap, Javascript, Nodejs, MongoDB, and
 - #### eMail: samersadon@gmail.com
 - #### Portfolio: https://samergain.github.io/samer-saadoun
 - #### LinkedIn: https://www.linkedin.com/in/ssamer
+- #### Resume: https://drive.google.com/file/d/1MUJ65-Ont1I8T5DEDWMJlh90qguud4d-/view
