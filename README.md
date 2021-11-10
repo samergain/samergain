@@ -12,4 +12,4 @@ Main technical skills are React | JavaScript | HTML/CSS | jQuery | APIs | Node.j
 - #### eMail: samersadon@gmail.com
 - #### Portfolio: https://samergain.github.io/samer-saadoun
 - #### LinkedIn: https://www.linkedin.com/in/ssamer
-- #### Resume: https://drive.google.com/file/d/1MUJ65-Ont1I8T5DEDWMJlh90qguud4d-/view
+- #### Resume: https://drive.google.com/file/d/1ywhnrbmoR6Q3TxU0qx70JyGPydc6JrFf/view?usp=sharing
